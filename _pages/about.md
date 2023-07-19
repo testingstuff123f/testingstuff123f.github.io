@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Initial Conditions</p>
+    <p><center>Initial Conditions</center></p>
+    <p><center>(curvature perturbations)</center></p>
    
 
 news: true  # includes a list of news items
